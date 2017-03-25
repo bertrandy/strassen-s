@@ -1,0 +1,4 @@
+#!/bin/sh
+dimension="$2"
+inputfile="$3"
+java Matrix 0 $dimension $inputfile
